@@ -5,4 +5,6 @@ Java-based source code)
 * Unit Testing source code with JUnit framework
 * ...
 
+### Screen Shorts
+![Learn CI with MR. Giao Lang](https://github.com/ThanhVui/math-util/blob/main/images/CI.png)
 #### © 2025 ThanhVui
